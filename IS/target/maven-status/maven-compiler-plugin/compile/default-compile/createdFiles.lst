@@ -1,0 +1,7 @@
+br\com\IncluStep\IS\IsApplication.class
+br\com\IncluStep\IS\controller\PerguntaController.class
+br\com\IncluStep\IS\dto\RequisicaoNovoPessoa.class
+br\com\IncluStep\IS\model\Pessoa.class
+br\com\IncluStep\IS\security\WebSecurityConfig.class
+br\com\IncluStep\IS\repository\PessoaRepository.class
+br\com\IncluStep\IS\controller\HomeController.class
